@@ -4,6 +4,7 @@
   "description": "Like learning a musical instrument, programming requires daily practice.",
   "main": "index.js",
   "scripts": {
+    "deploy": "echo this is a deploy",
     "test": "jest"
   },
   "keywords": [],
